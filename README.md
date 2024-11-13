@@ -6,7 +6,7 @@ Modulo: Automazione della produzione e delle manifatturiere
 
 Autori Lavoro di gruppo studenti serale 
 Programmazione pic16 
-Professori Soragna Ricciardi codici vecchi 
+Tutor Professori Soragna Ricciardi          codici vecchi 
 Realizzati con aiuto dei professori per noi ex studenti Modulo elettronica informatica ict
 
 Questi codici sono stati sviluppati in linguaggio C microcontrollori
